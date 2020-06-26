@@ -2,6 +2,9 @@
 
 ![Language][language-c]
 ![Library][library-opengl]
+<br>
+![Participants][participants-solo]
+<br>
 [![School Project][korea-university-image]][korea-university-cs-url]
 ![Course][course-cose331]
 ![Grade][grade-a+]
@@ -27,3 +30,4 @@
 [language-c]: https://img.shields.io/badge/Language-C-orange
 [library-opengl]: https://img.shields.io/badge/Library-OpenGL-green
 [grade-a+]: https://img.shields.io/badge/Grade-A%2B-yellow
+[participants-solo]: https://img.shields.io/badge/Participants-Solo%20Project-7aa3cc
