@@ -1,13 +1,13 @@
 # 거울 자동차 충돌 시뮬레이션
 
-![Language][language-c]
-![Library][library-opengl]
+![language-c][language-c]
+![library-opengl][library-opengl]
 <br>
-![Participants][participants-solo]
+![participants-solo][participants-solo]
 <br>
-[![School Project][korea-university-image]][korea-university-cs-url]
-![Course][course-cose331]
-![Grade][grade-a+]
+[![institution-korea-university][korea-university-image]][korea-university-cs-url]
+![course-computer-graphics][course-cose331]
+![grade-a+][grade-a+]
 
 > OpenGL Shader를 사용하여 두 거울 자동차가 충돌하는 모습을 시뮬레이션하였습니다.
 
