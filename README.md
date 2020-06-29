@@ -1,4 +1,4 @@
-# 거울 자동차 충돌 표현
+# 거울 자동차 충돌 시뮬레이션
 
 ![Language][language-c]
 ![Library][library-opengl]
@@ -9,11 +9,22 @@
 ![Course][course-cose331]
 ![Grade][grade-a+]
 
-> OpenGL Shader를 사용하여 두 거울 자동차가 충돌하는 모습을 표현하였습니다.
+> OpenGL Shader를 사용하여 두 거울 자동차가 충돌하는 모습을 시뮬레이션하였습니다.
 
 ## 스크린샷
 
-(준비 중)
+<img src="documents/screenshot.png" height="400px">
+
+### 작업 기간
+
+2019년 5월 중 2주
+
+### 구현 사항
+
+  * 거울 자동차 구현: Reflective Environment Mapping
+  * 교통사고(자동차 충돌) 구현: Collision Detection
+  * 배경 분위기 구현: Cartoon Rendering
+  * 자동차 바퀴 구현: Phong Shading
 
 ## 라이선스 및 공동체 수정
 
