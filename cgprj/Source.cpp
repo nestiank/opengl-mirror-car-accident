@@ -1,4 +1,3 @@
-//Editted by Lim, HyunSang, Korea Univ
 #include <iostream>
 #include <vector>
 #include <fstream>
@@ -7,6 +6,7 @@
 #include <glut.h>
 #define STB_IMAGE_IMPLEMENTATION
 #include <stb_image.h>
+
 using namespace std;
 
 #define PI 3.141592

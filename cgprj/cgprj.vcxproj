@@ -155,9 +155,9 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\skyFragment.glsl" />
-    <None Include="..\skyVertex.glsl" />
     <None Include="Fragment.glsl" />
+    <None Include="skyFragment.glsl" />
+    <None Include="skyVertex.glsl" />
     <None Include="textureFragment.glsl" />
     <None Include="textureVertex.glsl" />
     <None Include="Vertex.glsl" />

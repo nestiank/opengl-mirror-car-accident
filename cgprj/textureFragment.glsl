@@ -1,4 +1,3 @@
-//Editted by Lim, HyunSang, Korea Univ
 #version 330
 
 in vec3 normal;
