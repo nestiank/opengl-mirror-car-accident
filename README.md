@@ -9,13 +9,13 @@
 ![course-computer-graphics][course-cose331]
 ![grade-a+][grade-a+]
 
-> OpenGL Shader를 사용하여 두 거울 자동차가 충돌하는 모습을 시뮬레이션하였습니다.
+> OpenGL 셰이더를 사용하여 두 거울 자동차가 충돌하는 모습을 시뮬레이션하였습니다.
 
 ### 스크린샷
 
 <img src="documents/screenshot.png" height="400px">
 
-### 작업 기간
+### 개발 기간
 
 2019년 5월 중 2주
 
