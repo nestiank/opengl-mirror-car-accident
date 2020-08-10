@@ -1,6 +1,6 @@
 # 거울 자동차 충돌 시뮬레이션
 
-![language-c][language-c]
+![language-cpp][language-cpp]
 ![library-opengl][library-opengl]
 <br>
 ![participants-solo][participants-solo]
@@ -38,7 +38,7 @@
 [korea-university-image]: https://img.shields.io/badge/Institution-Korea%20University-red
 [korea-university-cs-url]: http://cs.korea.ac.kr
 [course-cose331]: https://img.shields.io/badge/Course-Computer%20Graphics-brightgreen
-[language-c]: https://img.shields.io/badge/Language-C-orange
+[language-cpp]: https://img.shields.io/badge/Language-C%2B%2B-orange
 [library-opengl]: https://img.shields.io/badge/Library-OpenGL-green
 [grade-a+]: https://img.shields.io/badge/Grade-A%2B-yellow
 [participants-solo]: https://img.shields.io/badge/Participants-Solo%20Project-7aa3cc
