@@ -13,7 +13,7 @@
 
 ### 스크린샷
 
-<img src="documents/screenshot.png" height="400px">
+<img src="static/screenshot.png" height="400px">
 
 ### 개발 기간
 
@@ -22,7 +22,7 @@
 ### 구현 사항
 
   * 거울 자동차 구현: Reflective Environment Mapping
-  * 교통사고(자동차 충돌) 구현: Collision Detection
+  * 자동차 충돌 구현: Collision Detection
   * 배경 분위기 구현: Cartoon Rendering
   * 자동차 바퀴 구현: Phong Shading
 
